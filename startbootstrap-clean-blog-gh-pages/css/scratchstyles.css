@@ -1,0 +1,117 @@
+body {
+    background-color: #f4efe8;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222222;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header-box {
+    background-color: #2f4858;
+    color: white;
+    padding: 40px 20px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.nav-box {
+    background-color: #d9e2ec;
+    padding: 15px;
+    border-bottom: 2px solid #b8c4ce;
+}
+
+.nav-box a {
+    margin: 0 12px;
+    text-decoration: none;
+    color: #1d3557;
+    font-weight: bold;
+}
+
+.intro-box {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    border: 2px solid #d6d6d6;
+}
+
+.intro-box img {
+    margin: 20px 0;
+    border: 4px solid #2f4858;
+}
+
+.list-box {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    border: 2px solid #d6d6d6;
+    text-align: left;
+}
+
+.list-box h2 {
+    text-align: center;
+    color: #1d3557;
+}
+
+.band-name {
+    margin-bottom: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #2f4858;
+}
+
+.band-name ul {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333333;
+}
+
+.video-box {
+    background-color: #f7f7f7;
+    border: 1px dashed #999999;
+    padding: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.placeholder-text {
+    color: #777777;
+    font-style: italic;
+}
+
+.tableau-box {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    border: 2px solid #d6d6d6;
+}
+
+.tableau-box h2 {
+    color: #1d3557;
+}
+
+.placeholder-tableau {
+    margin-top: 20px;
+    padding: 40px;
+    background-color: #f7f7f7;
+    border: 1px dashed #999999;
+    color: #777777;
+}
+
+.footer-box {
+    padding: 30px;
+    background-color: #d9e2ec;
+}
+
+.footer-box a {
+    text-decoration: none;
+    color: #1d3557;
+    font-weight: bold;
+}
